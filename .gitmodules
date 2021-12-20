@@ -1,0 +1,4 @@
+[submodule "NATS"]
+	path = NATS
+	url = https://github.com/OlegDubrovskyi/NATS.git
+    ignore = dirty
